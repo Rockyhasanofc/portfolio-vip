@@ -2,3 +2,30 @@ nav ul li {
     padding-left: 50px ;
     font-weight: bolder;
 }
+html{
+    scroll-behavior: smooth;
+}
+body{
+    /*font-family: 'Handlee', cursive;*/
+      font-family: 'Montserrat', sans-serif;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+}
+/* header start*/
+header{
+background-image: url(bg-header.jpg);
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.navbar{
+    padding: 1% 10%;
+    background-color: rgba(0,0,0,0.3);
+}
+.banner-container{
+    height: 100vh;
+}
+/* header ends*/
