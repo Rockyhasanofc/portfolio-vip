@@ -6,7 +6,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    /*font-family: 'Handlee', cursive;*/
+    /**/
       font-family: 'Montserrat', sans-serif;
     
 }
@@ -48,7 +48,11 @@ background-size: cover;
 }
 .banner-container h1{
 
-    
+    font-size: 3.5rem;
+    background-color: rgba(7, 101,189, 0.8);
+    padding: 10px 20px;
+    font-family: 'Handlee', cursive;
+    border-radius: 5px;
 }
 
 /* header ends*/
