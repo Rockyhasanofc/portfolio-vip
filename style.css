@@ -111,4 +111,8 @@ background-size: cover;
    border-radius: 20px 40px;
    padding: 10px 20px;
 }
+.star i{
+    width: 20px;
+    color: black;
+}
 /* Abut Me Ends*/
