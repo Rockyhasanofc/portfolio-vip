@@ -137,5 +137,17 @@ background-size: cover;
     padding: 3% 8%;
     background:#5e83a7 ; 
 }
+.feedback-img{
+    width: 50%;
+    height: auto;
+    margin-bottom:5px ;
+}
+.carousel-item{
+    text-align: center;
+    padding: 7% 15%;
+    font-family: 'Handlee', cursive;
+    font-size:1.2rem ;
+    font-weight: bolder;
+}
 /*feedback ends*/
 
