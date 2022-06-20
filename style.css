@@ -21,7 +21,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* header start*/
 header{
-background-image: url(bg-header.jpg);
+background-image: url(images/bg-header.jpg);
 background-position: center;
 background-attachment: fixed;
 background-repeat: no-repeat;
@@ -131,3 +131,11 @@ background-size: cover;
     box-shadow: 2px 6px 5px black;
 }
 /* Tutorials ends*/
+
+/*Feedback stats*/
+#feedback{
+    padding: 3% 8%;
+    background:#5e83a7 ; 
+}
+/*feedback ends*/
+
