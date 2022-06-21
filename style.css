@@ -1,5 +1,8 @@
+body{
+    background:darkgrey;
+}
 nav ul li {
-    padding-left: 50px ;
+    padding-left: 10px ;
     font-weight: bolder;
 }
 html{
@@ -150,4 +153,14 @@ background-size: cover;
     font-weight: bolder;
 }
 /*feedback ends*/
+
+
+/*contact start*/
+#contact{
+    padding: 3% 8%;
+    background:#a8c2dd ; 
+}
+/*contact ends*/
+
+
 
