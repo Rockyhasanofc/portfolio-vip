@@ -160,6 +160,10 @@ background-size: cover;
     padding: 3% 8%;
     background:#a8c2dd ; 
 }
+.form-group label{
+    margin-bottom: 0;
+    font-weight: bold;
+}
 /*contact ends*/
 
 
